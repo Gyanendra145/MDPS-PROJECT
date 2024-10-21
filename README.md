@@ -41,7 +41,7 @@ Early diagnosis is critical in healthcare, as it can help reduce disease severit
 
 Clone the repository:
 
-git clone https://github.com/Gyanendra145/MDPS-PROJECT
+git clone `https://github.com/Gyanendra145/MDPS-PROJECT`
 
 Navigate to the project directory:
 cd MDPS-PROJECT
@@ -90,4 +90,4 @@ Cost-Effectiveness: Plan to incorporate economic factors and provide estimates o
 Deep Learning: Exploring advanced techniques such as deep learning to further enhance predictive accuracy.
 Real-time Implementation: Implement real-time disease predictions using wearable devices and live data streams.
 
-
+```bash
