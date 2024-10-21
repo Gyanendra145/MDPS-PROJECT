@@ -1,6 +1,6 @@
 # MDPS-PROJECT
 
-# Multimorbidity Disease Prediction System
+# Multiple Disease Prediction System
 
 This repository contains the implementation of a Multimorbidity Disease Prediction System utilizing machine learning algorithms. The goal of this project is to provide early diagnosis of diseases such as **Diabetes**, **Heart Disease**, **Parkinson’s Disease**, **Cancer**, and **Liver Disease**. The system employs a combination of machine learning models and ensemble learning techniques to improve prediction accuracy, with a special focus on **Random Forest**, **K-Nearest Neighbors (KNN)**, **Naive Bayes**, **Decision Tree**, and **Gradient Boosting**.
 
