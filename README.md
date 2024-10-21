@@ -40,7 +40,7 @@ Early diagnosis is critical in healthcare, as it can help reduce disease severit
 ## Installation
 
 Clone the repository:
-
+```bash
 git clone `https://github.com/Gyanendra145/MDPS-PROJECT`
 
 Navigate to the project directory:
@@ -52,17 +52,17 @@ python3 -m venv env
 source env/bin/activate   # On Windows: env\Scripts\activate
 
 
-##Usage
+## Usage
 Prepare the Dataset
 The project requires medical datasets such as EHRs, PGHD, biomedical images, or genomic data. Ensure your dataset is properly formatted and placed in the dataset/ directory.
 
 Data Sources
 The model uses diverse data sources to improve prediction accuracy:
 
-Electronic Health Records (EHRs): Containing medical histories and diagnoses.
-Patient-Generated Health Data (PGHD): Data from wearable devices and smartphone apps.
-Biomedical Imaging: X-ray, MRI, and other imaging data.
-Genomic Data: Data from DNA/RNA sequencing.
+-**Electronic Health Records (EHRs)**: Containing medical histories and diagnoses.
+-**Patient-Generated Health Data (PGHD)**: Data from wearable devices and smartphone apps.
+-Biomedical Imaging: X-ray, MRI, and other imaging data.
+-Genomic Data: Data from DNA/RNA sequencing.
 
 Methodology
 The following machine learning models are utilized in the prediction system:
@@ -90,4 +90,4 @@ Cost-Effectiveness: Plan to incorporate economic factors and provide estimates o
 Deep Learning: Exploring advanced techniques such as deep learning to further enhance predictive accuracy.
 Real-time Implementation: Implement real-time disease predictions using wearable devices and live data streams.
 
-```bash
+
