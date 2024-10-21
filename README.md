@@ -18,7 +18,7 @@ License
 Introduction
 Early diagnosis is critical in healthcare, as it can help reduce disease severity and improve patient outcomes. This project aims to facilitate the prediction of multiple diseases simultaneously using machine learning algorithms and ensemble techniques such as Hard Voting and Gradient Boosting. By integrating data from sources such as electronic health records (EHRs), patient-generated health data (PGHD), biomedical imaging, and genomic data, this system provides accurate predictions, leading to better healthcare decisions.
 
-Features
+#Features:
 Multimorbidity Prediction: Predicts the likelihood of multiple diseases including diabetes, heart disease, Parkinson’s, cancer, and liver disease.
 Machine Learning Algorithms: Incorporates popular machine learning models such as Random Forest, KNN, Decision Tree, and Naive Bayes.
 Ensemble Learning: Utilizes Hard Voting and Gradient Boosting to improve prediction accuracy.
@@ -33,7 +33,11 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/multimorbidity-disease-prediction.git
+# Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
 Navigate to the project directory:
 bash
 Copy code
