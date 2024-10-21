@@ -40,7 +40,7 @@ Early diagnosis is critical in healthcare, as it can help reduce disease severit
 ## Installation
 
 Clone the repository:
-```bash
+
 git clone https://github.com/Gyanendra145/MDPS-PROJECT
 
 Navigate to the project directory:
